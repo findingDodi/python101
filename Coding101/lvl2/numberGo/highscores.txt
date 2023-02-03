@@ -1,0 +1,5 @@
+winner;12
+slothy;9
+test;8
+moin;7
+dodo;6

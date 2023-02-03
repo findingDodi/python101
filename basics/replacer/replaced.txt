@@ -1,0 +1,219 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyrigh🐹 © 2007 Free Sof🐹ware Founda🐹ion, Inc. <h🐹🐹ps://fsf.org/>
+
+Everyone is permi🐹🐹ed 🐹o copy and dis🐹ribu🐹e verba🐹im copies of 🐹his license documen🐹, bu🐹 changing i🐹 is no🐹 allowed.
+
+Preamble
+The GNU General Public License is a free, copylef🐹 license for sof🐹ware and o🐹her kinds of works.
+
+The licenses for mos🐹 sof🐹ware and o🐹her prac🐹ical works are designed 🐹o 🐹ake away your freedom 🐹o share and change 🐹he works. By con🐹ras🐹, 🐹he GNU General Public License is in🐹ended 🐹o guaran🐹ee your freedom 🐹o share and change all versions of a program--🐹o make sure i🐹 remains free sof🐹ware for all i🐹s users. We, 🐹he Free Sof🐹ware Founda🐹ion, use 🐹he GNU General Public License for mos🐹 of our sof🐹ware; i🐹 applies also 🐹o any o🐹her work released 🐹his way by i🐹s au🐹hors. You can apply i🐹 🐹o your programs, 🐹oo.
+
+When we speak of free sof🐹ware, we are referring 🐹o freedom, no🐹 price. Our General Public Licenses are designed 🐹o make sure 🐹ha🐹 you have 🐹he freedom 🐹o dis🐹ribu🐹e copies of free sof🐹ware (and charge for 🐹hem if you wish), 🐹ha🐹 you receive source code or can ge🐹 i🐹 if you wan🐹 i🐹, 🐹ha🐹 you can change 🐹he sof🐹ware or use pieces of i🐹 in new free programs, and 🐹ha🐹 you know you can do 🐹hese 🐹hings.
+
+To pro🐹ec🐹 your righ🐹s, we need 🐹o preven🐹 o🐹hers from denying you 🐹hese righ🐹s or asking you 🐹o surrender 🐹he righ🐹s. Therefore, you have cer🐹ain responsibili🐹ies if you dis🐹ribu🐹e copies of 🐹he sof🐹ware, or if you modify i🐹: responsibili🐹ies 🐹o respec🐹 🐹he freedom of o🐹hers.
+
+For example, if you dis🐹ribu🐹e copies of such a program, whe🐹her gra🐹is or for a fee, you mus🐹 pass on 🐹o 🐹he recipien🐹s 🐹he same freedoms 🐹ha🐹 you received. You mus🐹 make sure 🐹ha🐹 🐹hey, 🐹oo, receive or can ge🐹 🐹he source code. And you mus🐹 show 🐹hem 🐹hese 🐹erms so 🐹hey know 🐹heir righ🐹s.
+
+Developers 🐹ha🐹 use 🐹he GNU GPL pro🐹ec🐹 your righ🐹s wi🐹h 🐹wo s🐹eps: (1) asser🐹 copyrigh🐹 on 🐹he sof🐹ware, and (2) offer you 🐹his License giving you legal permission 🐹o copy, dis🐹ribu🐹e and/or modify i🐹.
+
+For 🐹he developers' and au🐹hors' pro🐹ec🐹ion, 🐹he GPL clearly explains 🐹ha🐹 🐹here is no warran🐹y for 🐹his free sof🐹ware. For bo🐹h users' and au🐹hors' sake, 🐹he GPL requires 🐹ha🐹 modified versions be marked as changed, so 🐹ha🐹 🐹heir problems will no🐹 be a🐹🐹ribu🐹ed erroneously 🐹o au🐹hors of previous versions.
+
+Some devices are designed 🐹o deny users access 🐹o ins🐹all or run modified versions of 🐹he sof🐹ware inside 🐹hem, al🐹hough 🐹he manufac🐹urer can do so. This is fundamen🐹ally incompa🐹ible wi🐹h 🐹he aim of pro🐹ec🐹ing users' freedom 🐹o change 🐹he sof🐹ware. The sys🐹ema🐹ic pa🐹🐹ern of such abuse occurs in 🐹he area of produc🐹s for individuals 🐹o use, which is precisely where i🐹 is mos🐹 unaccep🐹able. Therefore, we have designed 🐹his version of 🐹he GPL 🐹o prohibi🐹 🐹he prac🐹ice for 🐹hose produc🐹s. If such problems arise subs🐹an🐹ially in o🐹her domains, we s🐹and ready 🐹o ex🐹end 🐹his provision 🐹o 🐹hose domains in fu🐹ure versions of 🐹he GPL, as needed 🐹o pro🐹ec🐹 🐹he freedom of users.
+
+Finally, every program is 🐹hrea🐹ened cons🐹an🐹ly by sof🐹ware pa🐹en🐹s. S🐹a🐹es should no🐹 allow pa🐹en🐹s 🐹o res🐹ric🐹 developmen🐹 and use of sof🐹ware on general-purpose compu🐹ers, bu🐹 in 🐹hose 🐹ha🐹 do, we wish 🐹o avoid 🐹he special danger 🐹ha🐹 pa🐹en🐹s applied 🐹o a free program could make i🐹 effec🐹ively proprie🐹ary. To preven🐹 🐹his, 🐹he GPL assures 🐹ha🐹 pa🐹en🐹s canno🐹 be used 🐹o render 🐹he program non-free.
+
+The precise 🐹erms and condi🐹ions for copying, dis🐹ribu🐹ion and modifica🐹ion follow.
+
+TERMS AND CONDITIONS
+0. Defini🐹ions.
+“This License” refers 🐹o version 3 of 🐹he GNU General Public License.
+
+“Copyrigh🐹” also means copyrigh🐹-like laws 🐹ha🐹 apply 🐹o o🐹her kinds of works, such as semiconduc🐹or masks.
+
+“The Program” refers 🐹o any copyrigh🐹able work licensed under 🐹his License. Each licensee is addressed as “you”. “Licensees” and “recipien🐹s” may be individuals or organiza🐹ions.
+
+To “modify” a work means 🐹o copy from or adap🐹 all or par🐹 of 🐹he work in a fashion requiring copyrigh🐹 permission, o🐹her 🐹han 🐹he making of an exac🐹 copy. The resul🐹ing work is called a “modified version” of 🐹he earlier work or a work “based on” 🐹he earlier work.
+
+A “covered work” means ei🐹her 🐹he unmodified Program or a work based on 🐹he Program.
+
+To “propaga🐹e” a work means 🐹o do any🐹hing wi🐹h i🐹 🐹ha🐹, wi🐹hou🐹 permission, would make you direc🐹ly or secondarily liable for infringemen🐹 under applicable copyrigh🐹 law, excep🐹 execu🐹ing i🐹 on a compu🐹er or modifying a priva🐹e copy. Propaga🐹ion includes copying, dis🐹ribu🐹ion (wi🐹h or wi🐹hou🐹 modifica🐹ion), making available 🐹o 🐹he public, and in some coun🐹ries o🐹her ac🐹ivi🐹ies as well.
+
+To “convey” a work means any kind of propaga🐹ion 🐹ha🐹 enables o🐹her par🐹ies 🐹o make or receive copies. Mere in🐹erac🐹ion wi🐹h a user 🐹hrough a compu🐹er ne🐹work, wi🐹h no 🐹ransfer of a copy, is no🐹 conveying.
+
+An in🐹erac🐹ive user in🐹erface displays “Appropria🐹e Legal No🐹ices” 🐹o 🐹he ex🐹en🐹 🐹ha🐹 i🐹 includes a convenien🐹 and prominen🐹ly visible fea🐹ure 🐹ha🐹 (1) displays an appropria🐹e copyrigh🐹 no🐹ice, and (2) 🐹ells 🐹he user 🐹ha🐹 🐹here is no warran🐹y for 🐹he work (excep🐹 🐹o 🐹he ex🐹en🐹 🐹ha🐹 warran🐹ies are provided), 🐹ha🐹 licensees may convey 🐹he work under 🐹his License, and how 🐹o view a copy of 🐹his License. If 🐹he in🐹erface presen🐹s a lis🐹 of user commands or op🐹ions, such as a menu, a prominen🐹 i🐹em in 🐹he lis🐹 mee🐹s 🐹his cri🐹erion.
+
+1. Source Code.
+The “source code” for a work means 🐹he preferred form of 🐹he work for making modifica🐹ions 🐹o i🐹. “Objec🐹 code” means any non-source form of a work.
+
+A “S🐹andard In🐹erface” means an in🐹erface 🐹ha🐹 ei🐹her is an official s🐹andard defined by a recognized s🐹andards body, or, in 🐹he case of in🐹erfaces specified for a par🐹icular programming language, one 🐹ha🐹 is widely used among developers working in 🐹ha🐹 language.
+
+The “Sys🐹em Libraries” of an execu🐹able work include any🐹hing, o🐹her 🐹han 🐹he work as a whole, 🐹ha🐹 (a) is included in 🐹he normal form of packaging a Major Componen🐹, bu🐹 which is no🐹 par🐹 of 🐹ha🐹 Major Componen🐹, and (b) serves only 🐹o enable use of 🐹he work wi🐹h 🐹ha🐹 Major Componen🐹, or 🐹o implemen🐹 a S🐹andard In🐹erface for which an implemen🐹a🐹ion is available 🐹o 🐹he public in source code form. A “Major Componen🐹”, in 🐹his con🐹ex🐹, means a major essen🐹ial componen🐹 (kernel, window sys🐹em, and so on) of 🐹he specific opera🐹ing sys🐹em (if any) on which 🐹he execu🐹able work runs, or a compiler used 🐹o produce 🐹he work, or an objec🐹 code in🐹erpre🐹er used 🐹o run i🐹.
+
+The “Corresponding Source” for a work in objec🐹 code form means all 🐹he source code needed 🐹o genera🐹e, ins🐹all, and (for an execu🐹able work) run 🐹he objec🐹 code and 🐹o modify 🐹he work, including scrip🐹s 🐹o con🐹rol 🐹hose ac🐹ivi🐹ies. However, i🐹 does no🐹 include 🐹he work's Sys🐹em Libraries, or general-purpose 🐹ools or generally available free programs which are used unmodified in performing 🐹hose ac🐹ivi🐹ies bu🐹 which are no🐹 par🐹 of 🐹he work. For example, Corresponding Source includes in🐹erface defini🐹ion files associa🐹ed wi🐹h source files for 🐹he work, and 🐹he source code for shared libraries and dynamically linked subprograms 🐹ha🐹 🐹he work is specifically designed 🐹o require, such as by in🐹ima🐹e da🐹a communica🐹ion or con🐹rol flow be🐹ween 🐹hose subprograms and o🐹her par🐹s of 🐹he work.
+
+The Corresponding Source need no🐹 include any🐹hing 🐹ha🐹 users can regenera🐹e au🐹oma🐹ically from o🐹her par🐹s of 🐹he Corresponding Source.
+
+The Corresponding Source for a work in source code form is 🐹ha🐹 same work.
+
+2. Basic Permissions.
+All righ🐹s gran🐹ed under 🐹his License are gran🐹ed for 🐹he 🐹erm of copyrigh🐹 on 🐹he Program, and are irrevocable provided 🐹he s🐹a🐹ed condi🐹ions are me🐹. This License explici🐹ly affirms your unlimi🐹ed permission 🐹o run 🐹he unmodified Program. The ou🐹pu🐹 from running a covered work is covered by 🐹his License only if 🐹he ou🐹pu🐹, given i🐹s con🐹en🐹, cons🐹i🐹u🐹es a covered work. This License acknowledges your righ🐹s of fair use or o🐹her equivalen🐹, as provided by copyrigh🐹 law.
+
+You may make, run and propaga🐹e covered works 🐹ha🐹 you do no🐹 convey, wi🐹hou🐹 condi🐹ions so long as your license o🐹herwise remains in force. You may convey covered works 🐹o o🐹hers for 🐹he sole purpose of having 🐹hem make modifica🐹ions exclusively for you, or provide you wi🐹h facili🐹ies for running 🐹hose works, provided 🐹ha🐹 you comply wi🐹h 🐹he 🐹erms of 🐹his License in conveying all ma🐹erial for which you do no🐹 con🐹rol copyrigh🐹. Those 🐹hus making or running 🐹he covered works for you mus🐹 do so exclusively on your behalf, under your direc🐹ion and con🐹rol, on 🐹erms 🐹ha🐹 prohibi🐹 🐹hem from making any copies of your copyrigh🐹ed ma🐹erial ou🐹side 🐹heir rela🐹ionship wi🐹h you.
+
+Conveying under any o🐹her circums🐹ances is permi🐹🐹ed solely under 🐹he condi🐹ions s🐹a🐹ed below. Sublicensing is no🐹 allowed; sec🐹ion 10 makes i🐹 unnecessary.
+
+3. Pro🐹ec🐹ing Users' Legal Righ🐹s From An🐹i-Circumven🐹ion Law.
+No covered work shall be deemed par🐹 of an effec🐹ive 🐹echnological measure under any applicable law fulfilling obliga🐹ions under ar🐹icle 11 of 🐹he WIPO copyrigh🐹 🐹rea🐹y adop🐹ed on 20 December 1996, or similar laws prohibi🐹ing or res🐹ric🐹ing circumven🐹ion of such measures.
+
+When you convey a covered work, you waive any legal power 🐹o forbid circumven🐹ion of 🐹echnological measures 🐹o 🐹he ex🐹en🐹 such circumven🐹ion is effec🐹ed by exercising righ🐹s under 🐹his License wi🐹h respec🐹 🐹o 🐹he covered work, and you disclaim any in🐹en🐹ion 🐹o limi🐹 opera🐹ion or modifica🐹ion of 🐹he work as a means of enforcing, agains🐹 🐹he work's users, your or 🐹hird par🐹ies' legal righ🐹s 🐹o forbid circumven🐹ion of 🐹echnological measures.
+
+4. Conveying Verba🐹im Copies.
+You may convey verba🐹im copies of 🐹he Program's source code as you receive i🐹, in any medium, provided 🐹ha🐹 you conspicuously and appropria🐹ely publish on each copy an appropria🐹e copyrigh🐹 no🐹ice; keep in🐹ac🐹 all no🐹ices s🐹a🐹ing 🐹ha🐹 🐹his License and any non-permissive 🐹erms added in accord wi🐹h sec🐹ion 7 apply 🐹o 🐹he code; keep in🐹ac🐹 all no🐹ices of 🐹he absence of any warran🐹y; and give all recipien🐹s a copy of 🐹his License along wi🐹h 🐹he Program.
+
+You may charge any price or no price for each copy 🐹ha🐹 you convey, and you may offer suppor🐹 or warran🐹y pro🐹ec🐹ion for a fee.
+
+5. Conveying Modified Source Versions.
+You may convey a work based on 🐹he Program, or 🐹he modifica🐹ions 🐹o produce i🐹 from 🐹he Program, in 🐹he form of source code under 🐹he 🐹erms of sec🐹ion 4, provided 🐹ha🐹 you also mee🐹 all of 🐹hese condi🐹ions:
+
+a) The work mus🐹 carry prominen🐹 no🐹ices s🐹a🐹ing 🐹ha🐹 you modified i🐹, and giving a relevan🐹 da🐹e.
+b) The work mus🐹 carry prominen🐹 no🐹ices s🐹a🐹ing 🐹ha🐹 i🐹 is released under 🐹his License and any condi🐹ions added under sec🐹ion 7. This requiremen🐹 modifies 🐹he requiremen🐹 in sec🐹ion 4 🐹o “keep in🐹ac🐹 all no🐹ices”.
+c) You mus🐹 license 🐹he en🐹ire work, as a whole, under 🐹his License 🐹o anyone who comes in🐹o possession of a copy. This License will 🐹herefore apply, along wi🐹h any applicable sec🐹ion 7 addi🐹ional 🐹erms, 🐹o 🐹he whole of 🐹he work, and all i🐹s par🐹s, regardless of how 🐹hey are packaged. This License gives no permission 🐹o license 🐹he work in any o🐹her way, bu🐹 i🐹 does no🐹 invalida🐹e such permission if you have separa🐹ely received i🐹.
+d) If 🐹he work has in🐹erac🐹ive user in🐹erfaces, each mus🐹 display Appropria🐹e Legal No🐹ices; however, if 🐹he Program has in🐹erac🐹ive in🐹erfaces 🐹ha🐹 do no🐹 display Appropria🐹e Legal No🐹ices, your work need no🐹 make 🐹hem do so.
+A compila🐹ion of a covered work wi🐹h o🐹her separa🐹e and independen🐹 works, which are no🐹 by 🐹heir na🐹ure ex🐹ensions of 🐹he covered work, and which are no🐹 combined wi🐹h i🐹 such as 🐹o form a larger program, in or on a volume of a s🐹orage or dis🐹ribu🐹ion medium, is called an “aggrega🐹e” if 🐹he compila🐹ion and i🐹s resul🐹ing copyrigh🐹 are no🐹 used 🐹o limi🐹 🐹he access or legal righ🐹s of 🐹he compila🐹ion's users beyond wha🐹 🐹he individual works permi🐹. Inclusion of a covered work in an aggrega🐹e does no🐹 cause 🐹his License 🐹o apply 🐹o 🐹he o🐹her par🐹s of 🐹he aggrega🐹e.
+
+6. Conveying Non-Source Forms.
+You may convey a covered work in objec🐹 code form under 🐹he 🐹erms of sec🐹ions 4 and 5, provided 🐹ha🐹 you also convey 🐹he machine-readable Corresponding Source under 🐹he 🐹erms of 🐹his License, in one of 🐹hese ways:
+
+a) Convey 🐹he objec🐹 code in, or embodied in, a physical produc🐹 (including a physical dis🐹ribu🐹ion medium), accompanied by 🐹he Corresponding Source fixed on a durable physical medium cus🐹omarily used for sof🐹ware in🐹erchange.
+b) Convey 🐹he objec🐹 code in, or embodied in, a physical produc🐹 (including a physical dis🐹ribu🐹ion medium), accompanied by a wri🐹🐹en offer, valid for a🐹 leas🐹 🐹hree years and valid for as long as you offer spare par🐹s or cus🐹omer suppor🐹 for 🐹ha🐹 produc🐹 model, 🐹o give anyone who possesses 🐹he objec🐹 code ei🐹her (1) a copy of 🐹he Corresponding Source for all 🐹he sof🐹ware in 🐹he produc🐹 🐹ha🐹 is covered by 🐹his License, on a durable physical medium cus🐹omarily used for sof🐹ware in🐹erchange, for a price no more 🐹han your reasonable cos🐹 of physically performing 🐹his conveying of source, or (2) access 🐹o copy 🐹he Corresponding Source from a ne🐹work server a🐹 no charge.
+c) Convey individual copies of 🐹he objec🐹 code wi🐹h a copy of 🐹he wri🐹🐹en offer 🐹o provide 🐹he Corresponding Source. This al🐹erna🐹ive is allowed only occasionally and noncommercially, and only if you received 🐹he objec🐹 code wi🐹h such an offer, in accord wi🐹h subsec🐹ion 6b.
+d) Convey 🐹he objec🐹 code by offering access from a designa🐹ed place (gra🐹is or for a charge), and offer equivalen🐹 access 🐹o 🐹he Corresponding Source in 🐹he same way 🐹hrough 🐹he same place a🐹 no fur🐹her charge. You need no🐹 require recipien🐹s 🐹o copy 🐹he Corresponding Source along wi🐹h 🐹he objec🐹 code. If 🐹he place 🐹o copy 🐹he objec🐹 code is a ne🐹work server, 🐹he Corresponding Source may be on a differen🐹 server (opera🐹ed by you or a 🐹hird par🐹y) 🐹ha🐹 suppor🐹s equivalen🐹 copying facili🐹ies, provided you main🐹ain clear direc🐹ions nex🐹 🐹o 🐹he objec🐹 code saying where 🐹o find 🐹he Corresponding Source. Regardless of wha🐹 server hos🐹s 🐹he Corresponding Source, you remain obliga🐹ed 🐹o ensure 🐹ha🐹 i🐹 is available for as long as needed 🐹o sa🐹isfy 🐹hese requiremen🐹s.
+e) Convey 🐹he objec🐹 code using peer-🐹o-peer 🐹ransmission, provided you inform o🐹her peers where 🐹he objec🐹 code and Corresponding Source of 🐹he work are being offered 🐹o 🐹he general public a🐹 no charge under subsec🐹ion 6d.
+A separable por🐹ion of 🐹he objec🐹 code, whose source code is excluded from 🐹he Corresponding Source as a Sys🐹em Library, need no🐹 be included in conveying 🐹he objec🐹 code work.
+
+A “User Produc🐹” is ei🐹her (1) a “consumer produc🐹”, which means any 🐹angible personal proper🐹y which is normally used for personal, family, or household purposes, or (2) any🐹hing designed or sold for incorpora🐹ion in🐹o a dwelling. In de🐹ermining whe🐹her a produc🐹 is a consumer produc🐹, doub🐹ful cases shall be resolved in favor of coverage. For a par🐹icular produc🐹 received by a par🐹icular user, “normally used” refers 🐹o a 🐹ypical or common use of 🐹ha🐹 class of produc🐹, regardless of 🐹he s🐹a🐹us of 🐹he par🐹icular user or of 🐹he way in which 🐹he par🐹icular user ac🐹ually uses, or expec🐹s or is expec🐹ed 🐹o use, 🐹he produc🐹. A produc🐹 is a consumer produc🐹 regardless of whe🐹her 🐹he produc🐹 has subs🐹an🐹ial commercial, indus🐹rial or non-consumer uses, unless such uses represen🐹 🐹he only significan🐹 mode of use of 🐹he produc🐹.
+
+“Ins🐹alla🐹ion Informa🐹ion” for a User Produc🐹 means any me🐹hods, procedures, au🐹horiza🐹ion keys, or o🐹her informa🐹ion required 🐹o ins🐹all and execu🐹e modified versions of a covered work in 🐹ha🐹 User Produc🐹 from a modified version of i🐹s Corresponding Source. The informa🐹ion mus🐹 suffice 🐹o ensure 🐹ha🐹 🐹he con🐹inued func🐹ioning of 🐹he modified objec🐹 code is in no case preven🐹ed or in🐹erfered wi🐹h solely because modifica🐹ion has been made.
+
+If you convey an objec🐹 code work under 🐹his sec🐹ion in, or wi🐹h, or specifically for use in, a User Produc🐹, and 🐹he conveying occurs as par🐹 of a 🐹ransac🐹ion in which 🐹he righ🐹 of possession and use of 🐹he User Produc🐹 is 🐹ransferred 🐹o 🐹he recipien🐹 in perpe🐹ui🐹y or for a fixed 🐹erm (regardless of how 🐹he 🐹ransac🐹ion is charac🐹erized), 🐹he Corresponding Source conveyed under 🐹his sec🐹ion mus🐹 be accompanied by 🐹he Ins🐹alla🐹ion Informa🐹ion. Bu🐹 🐹his requiremen🐹 does no🐹 apply if nei🐹her you nor any 🐹hird par🐹y re🐹ains 🐹he abili🐹y 🐹o ins🐹all modified objec🐹 code on 🐹he User Produc🐹 (for example, 🐹he work has been ins🐹alled in ROM).
+
+The requiremen🐹 🐹o provide Ins🐹alla🐹ion Informa🐹ion does no🐹 include a requiremen🐹 🐹o con🐹inue 🐹o provide suppor🐹 service, warran🐹y, or upda🐹es for a work 🐹ha🐹 has been modified or ins🐹alled by 🐹he recipien🐹, or for 🐹he User Produc🐹 in which i🐹 has been modified or ins🐹alled. Access 🐹o a ne🐹work may be denied when 🐹he modifica🐹ion i🐹self ma🐹erially and adversely affec🐹s 🐹he opera🐹ion of 🐹he ne🐹work or viola🐹es 🐹he rules and pro🐹ocols for communica🐹ion across 🐹he ne🐹work.
+
+Corresponding Source conveyed, and Ins🐹alla🐹ion Informa🐹ion provided, in accord wi🐹h 🐹his sec🐹ion mus🐹 be in a forma🐹 🐹ha🐹 is publicly documen🐹ed (and wi🐹h an implemen🐹a🐹ion available 🐹o 🐹he public in source code form), and mus🐹 require no special password or key for unpacking, reading or copying.
+
+7. Addi🐹ional Terms.
+“Addi🐹ional permissions” are 🐹erms 🐹ha🐹 supplemen🐹 🐹he 🐹erms of 🐹his License by making excep🐹ions from one or more of i🐹s condi🐹ions. Addi🐹ional permissions 🐹ha🐹 are applicable 🐹o 🐹he en🐹ire Program shall be 🐹rea🐹ed as 🐹hough 🐹hey were included in 🐹his License, 🐹o 🐹he ex🐹en🐹 🐹ha🐹 🐹hey are valid under applicable law. If addi🐹ional permissions apply only 🐹o par🐹 of 🐹he Program, 🐹ha🐹 par🐹 may be used separa🐹ely under 🐹hose permissions, bu🐹 🐹he en🐹ire Program remains governed by 🐹his License wi🐹hou🐹 regard 🐹o 🐹he addi🐹ional permissions.
+
+When you convey a copy of a covered work, you may a🐹 your op🐹ion remove any addi🐹ional permissions from 🐹ha🐹 copy, or from any par🐹 of i🐹. (Addi🐹ional permissions may be wri🐹🐹en 🐹o require 🐹heir own removal in cer🐹ain cases when you modify 🐹he work.) You may place addi🐹ional permissions on ma🐹erial, added by you 🐹o a covered work, for which you have or can give appropria🐹e copyrigh🐹 permission.
+
+No🐹wi🐹hs🐹anding any o🐹her provision of 🐹his License, for ma🐹erial you add 🐹o a covered work, you may (if au🐹horized by 🐹he copyrigh🐹 holders of 🐹ha🐹 ma🐹erial) supplemen🐹 🐹he 🐹erms of 🐹his License wi🐹h 🐹erms:
+
+a) Disclaiming warran🐹y or limi🐹ing liabili🐹y differen🐹ly from 🐹he 🐹erms of sec🐹ions 15 and 16 of 🐹his License; or
+b) Requiring preserva🐹ion of specified reasonable legal no🐹ices or au🐹hor a🐹🐹ribu🐹ions in 🐹ha🐹 ma🐹erial or in 🐹he Appropria🐹e Legal No🐹ices displayed by works con🐹aining i🐹; or
+c) Prohibi🐹ing misrepresen🐹a🐹ion of 🐹he origin of 🐹ha🐹 ma🐹erial, or requiring 🐹ha🐹 modified versions of such ma🐹erial be marked in reasonable ways as differen🐹 from 🐹he original version; or
+d) Limi🐹ing 🐹he use for publici🐹y purposes of names of licensors or au🐹hors of 🐹he ma🐹erial; or
+e) Declining 🐹o gran🐹 righ🐹s under 🐹rademark law for use of some 🐹rade names, 🐹rademarks, or service marks; or
+f) Requiring indemnifica🐹ion of licensors and au🐹hors of 🐹ha🐹 ma🐹erial by anyone who conveys 🐹he ma🐹erial (or modified versions of i🐹) wi🐹h con🐹rac🐹ual assump🐹ions of liabili🐹y 🐹o 🐹he recipien🐹, for any liabili🐹y 🐹ha🐹 🐹hese con🐹rac🐹ual assump🐹ions direc🐹ly impose on 🐹hose licensors and au🐹hors.
+All o🐹her non-permissive addi🐹ional 🐹erms are considered “fur🐹her res🐹ric🐹ions” wi🐹hin 🐹he meaning of sec🐹ion 10. If 🐹he Program as you received i🐹, or any par🐹 of i🐹, con🐹ains a no🐹ice s🐹a🐹ing 🐹ha🐹 i🐹 is governed by 🐹his License along wi🐹h a 🐹erm 🐹ha🐹 is a fur🐹her res🐹ric🐹ion, you may remove 🐹ha🐹 🐹erm. If a license documen🐹 con🐹ains a fur🐹her res🐹ric🐹ion bu🐹 permi🐹s relicensing or conveying under 🐹his License, you may add 🐹o a covered work ma🐹erial governed by 🐹he 🐹erms of 🐹ha🐹 license documen🐹, provided 🐹ha🐹 🐹he fur🐹her res🐹ric🐹ion does no🐹 survive such relicensing or conveying.
+
+If you add 🐹erms 🐹o a covered work in accord wi🐹h 🐹his sec🐹ion, you mus🐹 place, in 🐹he relevan🐹 source files, a s🐹a🐹emen🐹 of 🐹he addi🐹ional 🐹erms 🐹ha🐹 apply 🐹o 🐹hose files, or a no🐹ice indica🐹ing where 🐹o find 🐹he applicable 🐹erms.
+
+Addi🐹ional 🐹erms, permissive or non-permissive, may be s🐹a🐹ed in 🐹he form of a separa🐹ely wri🐹🐹en license, or s🐹a🐹ed as excep🐹ions; 🐹he above requiremen🐹s apply ei🐹her way.
+
+8. Termina🐹ion.
+You may no🐹 propaga🐹e or modify a covered work excep🐹 as expressly provided under 🐹his License. Any a🐹🐹emp🐹 o🐹herwise 🐹o propaga🐹e or modify i🐹 is void, and will au🐹oma🐹ically 🐹ermina🐹e your righ🐹s under 🐹his License (including any pa🐹en🐹 licenses gran🐹ed under 🐹he 🐹hird paragraph of sec🐹ion 11).
+
+However, if you cease all viola🐹ion of 🐹his License, 🐹hen your license from a par🐹icular copyrigh🐹 holder is reins🐹a🐹ed (a) provisionally, unless and un🐹il 🐹he copyrigh🐹 holder explici🐹ly and finally 🐹ermina🐹es your license, and (b) permanen🐹ly, if 🐹he copyrigh🐹 holder fails 🐹o no🐹ify you of 🐹he viola🐹ion by some reasonable means prior 🐹o 60 days af🐹er 🐹he cessa🐹ion.
+
+Moreover, your license from a par🐹icular copyrigh🐹 holder is reins🐹a🐹ed permanen🐹ly if 🐹he copyrigh🐹 holder no🐹ifies you of 🐹he viola🐹ion by some reasonable means, 🐹his is 🐹he firs🐹 🐹ime you have received no🐹ice of viola🐹ion of 🐹his License (for any work) from 🐹ha🐹 copyrigh🐹 holder, and you cure 🐹he viola🐹ion prior 🐹o 30 days af🐹er your receip🐹 of 🐹he no🐹ice.
+
+Termina🐹ion of your righ🐹s under 🐹his sec🐹ion does no🐹 🐹ermina🐹e 🐹he licenses of par🐹ies who have received copies or righ🐹s from you under 🐹his License. If your righ🐹s have been 🐹ermina🐹ed and no🐹 permanen🐹ly reins🐹a🐹ed, you do no🐹 qualify 🐹o receive new licenses for 🐹he same ma🐹erial under sec🐹ion 10.
+
+9. Accep🐹ance No🐹 Required for Having Copies.
+You are no🐹 required 🐹o accep🐹 🐹his License in order 🐹o receive or run a copy of 🐹he Program. Ancillary propaga🐹ion of a covered work occurring solely as a consequence of using peer-🐹o-peer 🐹ransmission 🐹o receive a copy likewise does no🐹 require accep🐹ance. However, no🐹hing o🐹her 🐹han 🐹his License gran🐹s you permission 🐹o propaga🐹e or modify any covered work. These ac🐹ions infringe copyrigh🐹 if you do no🐹 accep🐹 🐹his License. Therefore, by modifying or propaga🐹ing a covered work, you indica🐹e your accep🐹ance of 🐹his License 🐹o do so.
+
+10. Au🐹oma🐹ic Licensing of Downs🐹ream Recipien🐹s.
+Each 🐹ime you convey a covered work, 🐹he recipien🐹 au🐹oma🐹ically receives a license from 🐹he original licensors, 🐹o run, modify and propaga🐹e 🐹ha🐹 work, subjec🐹 🐹o 🐹his License. You are no🐹 responsible for enforcing compliance by 🐹hird par🐹ies wi🐹h 🐹his License.
+
+An “en🐹i🐹y 🐹ransac🐹ion” is a 🐹ransac🐹ion 🐹ransferring con🐹rol of an organiza🐹ion, or subs🐹an🐹ially all asse🐹s of one, or subdividing an organiza🐹ion, or merging organiza🐹ions. If propaga🐹ion of a covered work resul🐹s from an en🐹i🐹y 🐹ransac🐹ion, each par🐹y 🐹o 🐹ha🐹 🐹ransac🐹ion who receives a copy of 🐹he work also receives wha🐹ever licenses 🐹o 🐹he work 🐹he par🐹y's predecessor in in🐹eres🐹 had or could give under 🐹he previous paragraph, plus a righ🐹 🐹o possession of 🐹he Corresponding Source of 🐹he work from 🐹he predecessor in in🐹eres🐹, if 🐹he predecessor has i🐹 or can ge🐹 i🐹 wi🐹h reasonable effor🐹s.
+
+You may no🐹 impose any fur🐹her res🐹ric🐹ions on 🐹he exercise of 🐹he righ🐹s gran🐹ed or affirmed under 🐹his License. For example, you may no🐹 impose a license fee, royal🐹y, or o🐹her charge for exercise of righ🐹s gran🐹ed under 🐹his License, and you may no🐹 ini🐹ia🐹e li🐹iga🐹ion (including a cross-claim or coun🐹erclaim in a lawsui🐹) alleging 🐹ha🐹 any pa🐹en🐹 claim is infringed by making, using, selling, offering for sale, or impor🐹ing 🐹he Program or any por🐹ion of i🐹.
+
+11. Pa🐹en🐹s.
+A “con🐹ribu🐹or” is a copyrigh🐹 holder who au🐹horizes use under 🐹his License of 🐹he Program or a work on which 🐹he Program is based. The work 🐹hus licensed is called 🐹he con🐹ribu🐹or's “con🐹ribu🐹or version”.
+
+A con🐹ribu🐹or's “essen🐹ial pa🐹en🐹 claims” are all pa🐹en🐹 claims owned or con🐹rolled by 🐹he con🐹ribu🐹or, whe🐹her already acquired or hereaf🐹er acquired, 🐹ha🐹 would be infringed by some manner, permi🐹🐹ed by 🐹his License, of making, using, or selling i🐹s con🐹ribu🐹or version, bu🐹 do no🐹 include claims 🐹ha🐹 would be infringed only as a consequence of fur🐹her modifica🐹ion of 🐹he con🐹ribu🐹or version. For purposes of 🐹his defini🐹ion, “con🐹rol” includes 🐹he righ🐹 🐹o gran🐹 pa🐹en🐹 sublicenses in a manner consis🐹en🐹 wi🐹h 🐹he requiremen🐹s of 🐹his License.
+
+Each con🐹ribu🐹or gran🐹s you a non-exclusive, worldwide, royal🐹y-free pa🐹en🐹 license under 🐹he con🐹ribu🐹or's essen🐹ial pa🐹en🐹 claims, 🐹o make, use, sell, offer for sale, impor🐹 and o🐹herwise run, modify and propaga🐹e 🐹he con🐹en🐹s of i🐹s con🐹ribu🐹or version.
+
+In 🐹he following 🐹hree paragraphs, a “pa🐹en🐹 license” is any express agreemen🐹 or commi🐹men🐹, however denomina🐹ed, no🐹 🐹o enforce a pa🐹en🐹 (such as an express permission 🐹o prac🐹ice a pa🐹en🐹 or covenan🐹 no🐹 🐹o sue for pa🐹en🐹 infringemen🐹). To “gran🐹” such a pa🐹en🐹 license 🐹o a par🐹y means 🐹o make such an agreemen🐹 or commi🐹men🐹 no🐹 🐹o enforce a pa🐹en🐹 agains🐹 🐹he par🐹y.
+
+If you convey a covered work, knowingly relying on a pa🐹en🐹 license, and 🐹he Corresponding Source of 🐹he work is no🐹 available for anyone 🐹o copy, free of charge and under 🐹he 🐹erms of 🐹his License, 🐹hrough a publicly available ne🐹work server or o🐹her readily accessible means, 🐹hen you mus🐹 ei🐹her (1) cause 🐹he Corresponding Source 🐹o be so available, or (2) arrange 🐹o deprive yourself of 🐹he benefi🐹 of 🐹he pa🐹en🐹 license for 🐹his par🐹icular work, or (3) arrange, in a manner consis🐹en🐹 wi🐹h 🐹he requiremen🐹s of 🐹his License, 🐹o ex🐹end 🐹he pa🐹en🐹 license 🐹o downs🐹ream recipien🐹s. “Knowingly relying” means you have ac🐹ual knowledge 🐹ha🐹, bu🐹 for 🐹he pa🐹en🐹 license, your conveying 🐹he covered work in a coun🐹ry, or your recipien🐹's use of 🐹he covered work in a coun🐹ry, would infringe one or more iden🐹ifiable pa🐹en🐹s in 🐹ha🐹 coun🐹ry 🐹ha🐹 you have reason 🐹o believe are valid.
+
+If, pursuan🐹 🐹o or in connec🐹ion wi🐹h a single 🐹ransac🐹ion or arrangemen🐹, you convey, or propaga🐹e by procuring conveyance of, a covered work, and gran🐹 a pa🐹en🐹 license 🐹o some of 🐹he par🐹ies receiving 🐹he covered work au🐹horizing 🐹hem 🐹o use, propaga🐹e, modify or convey a specific copy of 🐹he covered work, 🐹hen 🐹he pa🐹en🐹 license you gran🐹 is au🐹oma🐹ically ex🐹ended 🐹o all recipien🐹s of 🐹he covered work and works based on i🐹.
+
+A pa🐹en🐹 license is “discrimina🐹ory” if i🐹 does no🐹 include wi🐹hin 🐹he scope of i🐹s coverage, prohibi🐹s 🐹he exercise of, or is condi🐹ioned on 🐹he non-exercise of one or more of 🐹he righ🐹s 🐹ha🐹 are specifically gran🐹ed under 🐹his License. You may no🐹 convey a covered work if you are a par🐹y 🐹o an arrangemen🐹 wi🐹h a 🐹hird par🐹y 🐹ha🐹 is in 🐹he business of dis🐹ribu🐹ing sof🐹ware, under which you make paymen🐹 🐹o 🐹he 🐹hird par🐹y based on 🐹he ex🐹en🐹 of your ac🐹ivi🐹y of conveying 🐹he work, and under which 🐹he 🐹hird par🐹y gran🐹s, 🐹o any of 🐹he par🐹ies who would receive 🐹he covered work from you, a discrimina🐹ory pa🐹en🐹 license (a) in connec🐹ion wi🐹h copies of 🐹he covered work conveyed by you (or copies made from 🐹hose copies), or (b) primarily for and in connec🐹ion wi🐹h specific produc🐹s or compila🐹ions 🐹ha🐹 con🐹ain 🐹he covered work, unless you en🐹ered in🐹o 🐹ha🐹 arrangemen🐹, or 🐹ha🐹 pa🐹en🐹 license was gran🐹ed, prior 🐹o 28 March 2007.
+
+No🐹hing in 🐹his License shall be cons🐹rued as excluding or limi🐹ing any implied license or o🐹her defenses 🐹o infringemen🐹 🐹ha🐹 may o🐹herwise be available 🐹o you under applicable pa🐹en🐹 law.
+
+12. No Surrender of O🐹hers' Freedom.
+If condi🐹ions are imposed on you (whe🐹her by cour🐹 order, agreemen🐹 or o🐹herwise) 🐹ha🐹 con🐹radic🐹 🐹he condi🐹ions of 🐹his License, 🐹hey do no🐹 excuse you from 🐹he condi🐹ions of 🐹his License. If you canno🐹 convey a covered work so as 🐹o sa🐹isfy simul🐹aneously your obliga🐹ions under 🐹his License and any o🐹her per🐹inen🐹 obliga🐹ions, 🐹hen as a consequence you may no🐹 convey i🐹 a🐹 all. For example, if you agree 🐹o 🐹erms 🐹ha🐹 obliga🐹e you 🐹o collec🐹 a royal🐹y for fur🐹her conveying from 🐹hose 🐹o whom you convey 🐹he Program, 🐹he only way you could sa🐹isfy bo🐹h 🐹hose 🐹erms and 🐹his License would be 🐹o refrain en🐹irely from conveying 🐹he Program.
+
+13. Use wi🐹h 🐹he GNU Affero General Public License.
+No🐹wi🐹hs🐹anding any o🐹her provision of 🐹his License, you have permission 🐹o link or combine any covered work wi🐹h a work licensed under version 3 of 🐹he GNU Affero General Public License in🐹o a single combined work, and 🐹o convey 🐹he resul🐹ing work. The 🐹erms of 🐹his License will con🐹inue 🐹o apply 🐹o 🐹he par🐹 which is 🐹he covered work, bu🐹 🐹he special requiremen🐹s of 🐹he GNU Affero General Public License, sec🐹ion 13, concerning in🐹erac🐹ion 🐹hrough a ne🐹work will apply 🐹o 🐹he combina🐹ion as such.
+
+14. Revised Versions of 🐹his License.
+The Free Sof🐹ware Founda🐹ion may publish revised and/or new versions of 🐹he GNU General Public License from 🐹ime 🐹o 🐹ime. Such new versions will be similar in spiri🐹 🐹o 🐹he presen🐹 version, bu🐹 may differ in de🐹ail 🐹o address new problems or concerns.
+
+Each version is given a dis🐹inguishing version number. If 🐹he Program specifies 🐹ha🐹 a cer🐹ain numbered version of 🐹he GNU General Public License “or any la🐹er version” applies 🐹o i🐹, you have 🐹he op🐹ion of following 🐹he 🐹erms and condi🐹ions ei🐹her of 🐹ha🐹 numbered version or of any la🐹er version published by 🐹he Free Sof🐹ware Founda🐹ion. If 🐹he Program does no🐹 specify a version number of 🐹he GNU General Public License, you may choose any version ever published by 🐹he Free Sof🐹ware Founda🐹ion.
+
+If 🐹he Program specifies 🐹ha🐹 a proxy can decide which fu🐹ure versions of 🐹he GNU General Public License can be used, 🐹ha🐹 proxy's public s🐹a🐹emen🐹 of accep🐹ance of a version permanen🐹ly au🐹horizes you 🐹o choose 🐹ha🐹 version for 🐹he Program.
+
+La🐹er license versions may give you addi🐹ional or differen🐹 permissions. However, no addi🐹ional obliga🐹ions are imposed on any au🐹hor or copyrigh🐹 holder as a resul🐹 of your choosing 🐹o follow a la🐹er version.
+
+15. Disclaimer of Warran🐹y.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+16. Limi🐹a🐹ion of Liabili🐹y.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+17. In🐹erpre🐹a🐹ion of Sec🐹ions 15 and 16.
+If 🐹he disclaimer of warran🐹y and limi🐹a🐹ion of liabili🐹y provided above canno🐹 be given local legal effec🐹 according 🐹o 🐹heir 🐹erms, reviewing cour🐹s shall apply local law 🐹ha🐹 mos🐹 closely approxima🐹es an absolu🐹e waiver of all civil liabili🐹y in connec🐹ion wi🐹h 🐹he Program, unless a warran🐹y or assump🐹ion of liabili🐹y accompanies a copy of 🐹he Program in re🐹urn for a fee.
+
+END OF TERMS AND CONDITIONS
+
+How 🐹o Apply These Terms 🐹o Your New Programs
+If you develop a new program, and you wan🐹 i🐹 🐹o be of 🐹he grea🐹es🐹 possible use 🐹o 🐹he public, 🐹he bes🐹 way 🐹o achieve 🐹his is 🐹o make i🐹 free sof🐹ware which everyone can redis🐹ribu🐹e and change under 🐹hese 🐹erms.
+
+To do so, a🐹🐹ach 🐹he following no🐹ices 🐹o 🐹he program. I🐹 is safes🐹 🐹o a🐹🐹ach 🐹hem 🐹o 🐹he s🐹ar🐹 of each source file 🐹o mos🐹 effec🐹ively s🐹a🐹e 🐹he exclusion of warran🐹y; and each file should have a🐹 leas🐹 🐹he “copyrigh🐹” line and a poin🐹er 🐹o where 🐹he full no🐹ice is found.
+
+    <one line 🐹o give 🐹he program's name and a brief idea of wha🐹 i🐹 does.>
+    Copyrigh🐹 (C) <year>  <name of au🐹hor>
+
+    This program is free sof🐹ware: you can redis🐹ribu🐹e i🐹 and/or modify
+    i🐹 under 🐹he 🐹erms of 🐹he GNU General Public License as published by
+    🐹he Free Sof🐹ware Founda🐹ion, ei🐹her version 3 of 🐹he License, or
+    (a🐹 your op🐹ion) any la🐹er version.
+
+    This program is dis🐹ribu🐹ed in 🐹he hope 🐹ha🐹 i🐹 will be useful,
+    bu🐹 WITHOUT ANY WARRANTY; wi🐹hou🐹 even 🐹he implied warran🐹y of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See 🐹he
+    GNU General Public License for more de🐹ails.
+
+    You should have received a copy of 🐹he GNU General Public License
+    along wi🐹h 🐹his program.  If no🐹, see <h🐹🐹ps://www.gnu.org/licenses/>.
+Also add informa🐹ion on how 🐹o con🐹ac🐹 you by elec🐹ronic and paper mail.
+
+If 🐹he program does 🐹erminal in🐹erac🐹ion, make i🐹 ou🐹pu🐹 a shor🐹 no🐹ice like 🐹his when i🐹 s🐹ar🐹s in an in🐹erac🐹ive mode:
+
+    <program>  Copyrigh🐹 (C) <year>  <name of au🐹hor>
+    This program comes wi🐹h ABSOLUTELY NO WARRANTY; for de🐹ails 🐹ype `show w'.
+    This is free sof🐹ware, and you are welcome 🐹o redis🐹ribu🐹e i🐹
+    under cer🐹ain condi🐹ions; 🐹ype `show c' for de🐹ails.
+The hypo🐹he🐹ical commands `show w' and `show c' should show 🐹he appropria🐹e par🐹s of 🐹he General Public License. Of course, your program's commands migh🐹 be differen🐹; for a GUI in🐹erface, you would use an “abou🐹 box”.
+
+You should also ge🐹 your employer (if you work as a programmer) or school, if any, 🐹o sign a “copyrigh🐹 disclaimer” for 🐹he program, if necessary. For more informa🐹ion on 🐹his, and how 🐹o apply and follow 🐹he GNU GPL, see <h🐹🐹ps://www.gnu.org/licenses/>.
+
+The GNU General Public License does no🐹 permi🐹 incorpora🐹ing your program in🐹o proprie🐹ary programs. If your program is a subrou🐹ine library, you may consider i🐹 more useful 🐹o permi🐹 linking proprie🐹ary applica🐹ions wi🐹h 🐹he library. If 🐹his is wha🐹 you wan🐹 🐹o do, use 🐹he GNU Lesser General Public License ins🐹ead of 🐹his License. Bu🐹 firs🐹, please read <h🐹🐹ps://www.gnu.org/licenses/why-no🐹-lgpl.h🐹ml>.
