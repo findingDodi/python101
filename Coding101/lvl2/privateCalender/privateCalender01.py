@@ -10,7 +10,7 @@ def get_week_number(year, month, week):
     if week_number < 10:
         return "0{} ".format(week_number)
 
-    return str(week_number)
+    return "{} ".format(str(week_number))
 
 
 def print_month(year, month):
@@ -29,9 +29,10 @@ def print_month(year, month):
 
 
 def print_header():
-    print(" #  {}  {}  {}  {}  {}  {}  {} ".format("Mo", "Tu", "We", "Th", "Fr", "Sa", "So"))
+    print("CW  {}  {}  {}  {}  {}  {}  {} ".format("Mo", "Tu", "We", "Th", "Fr", "Sa", "So"))
 
 
 if __name__ == "__main__":
     print_header()
+    print_month(2023, 1)
     print_month(2023, 2)
