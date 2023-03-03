@@ -3,28 +3,31 @@ import calendar
 import datetime
 
 
-def get_week_number(year, month, week):
-    week_reversed = week.copy()
-    week_reversed.sort(reverse=True)
-    week_number = datetime.date(year, month, week_reversed[0]).isocalendar().week
+def get_week_number_as_string(year, month, weekdays):
+    weekdays_reversed = weekdays.copy()
+    weekdays_reversed.sort(reverse=True)
+    week_number = datetime.date(year, month, weekdays_reversed[0]).isocalendar().week
+    '''
     if week_number < 10:
-        return "0{} ".format(week_number)
+        return "0{} ".format(str(week_number))
 
     return "{} ".format(str(week_number))
+    '''
+    return "{:02d} ".format(week_number)
 
 
 def print_month(year, month):
-    my_month = calendar.monthcalendar(year, month)
+    month_weeks = calendar.monthcalendar(year, month)
 
-    for week in my_month:
-        week_string = get_week_number(year, month, week)
-        for day in week:
+    for weekdays in month_weeks:
+        week_string = get_week_number_as_string(year, month, weekdays)
+
+        for day in weekdays:
             if day == 0:
                 week_string += " ** "
-            elif day < 10:
-                week_string += " 0{} ".format(str(day))
             else:
-                week_string += " {} ".format(str(day))
+                week_string += " {:02d} ".format(day)
+
         print(week_string)
 
 
@@ -35,4 +38,5 @@ def print_header():
 if __name__ == "__main__":
     print_header()
     print_month(2023, 1)
+    print("=" * 20)
     print_month(2023, 2)
