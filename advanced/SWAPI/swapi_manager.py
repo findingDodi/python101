@@ -2,6 +2,7 @@ import urllib.request
 import json
 import ssl
 import os.path
+from ThePersonFactory import ThePersonFactory
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -37,17 +38,14 @@ while keep_running:
 
     counter += 1
 
-content_results = []
+galaxy_people = []
 for i in range(len(content_array)):
     decoded = json.loads(content_array[i])
-    content_results += decoded["results"]
+    galaxy_people += ThePersonFactory.create_persons_from_data_list(decoded["results"])
 
 counter = 0
-for result in content_results:
+for person in galaxy_people:
     counter += 1
-    print('[{:02d}] {}'.format(counter, result['name']))
+    print('[{:02d}] {}'.format(counter, person))
 
-user_input = int(input("Please enter number: "))
-user_choice = content_results[user_input - 1]
-for key, value in user_choice.items():
-    print('{}: {}'.format(key, value))
+

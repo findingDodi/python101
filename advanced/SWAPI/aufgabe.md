@@ -7,9 +7,9 @@
   - können über den Namen zugeordnet werden oder ihre URL
 
 ## Next up (guess what) OO
-- species
-- homeworld
-- vehicles
-- films
-- starships
+- species != url
+- homeworld != url
+- vehicles != url
+- films != url
+- starships != url
 - remove created / edited / url
