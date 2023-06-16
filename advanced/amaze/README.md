@@ -8,7 +8,6 @@
 
 ## maze
 * 600 x 600 screensize
-* 560 x 560 mazesize (without borders)
 * 20 x 20 fieldsize
-* 28 fields per line
+* 30 fields per line
 * 784 fields - 2 (start and end points)
