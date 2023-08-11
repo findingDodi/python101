@@ -1,4 +1,5 @@
 import pygame
+import math
 
 import conf
 
@@ -42,6 +43,10 @@ class GameCore:
             move_y += self.cat_speed
         elif self.cat_position_y > self.mouse_pos_y:
             move_y -= self.cat_speed
+
+        vector_length = math.sqrt(move_x ** 2 + move_y ** 2)
+        move_x /= vector_length
+        move_y /= vector_length
 
         self.sit_cat_position(self.cat_position_x + move_x, self.cat_position_y + move_y)
 
