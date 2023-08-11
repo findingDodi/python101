@@ -10,26 +10,24 @@ class GameCore:
         self.screen_width = conf.SCREEN_SIZE[0]
         self.screen_height = conf.SCREEN_SIZE[1]
         self.game_is_running = True
-        self.last_event = None
-        self.time_passed = 0
         self.background_rect = pygame.Rect(0, 0, self.screen_width, self.screen_height)
 
         self.cat_position_x = self.screen_width / 2
         self.cat_position_y = self.screen_height / 2
         self.cat_speed = 1
+        self.cat_color = (245, 101, 44)
 
         self.mouse_pos_x = -1
         self.mouse_pos_y = -1
 
     def draw_cat(self):
-        box_color = (245, 101, 44)
-        pygame.draw.rect(self.screen, box_color, (self.cat_position_x, self.cat_position_y, 20, 20))
+        pygame.draw.rect(self.screen, self.cat_color, (self.cat_position_x, self.cat_position_y, 20, 20))
 
-    def move_cat(self, x, y):
+    def sit_cat_position(self, x, y):
         self.cat_position_x = x
         self.cat_position_y = y
 
-    def cat_control(self):
+    def move_cat(self):
         self.mouse_pos_x, self.mouse_pos_y = pygame.mouse.get_pos()
 
         move_x = 0
@@ -45,7 +43,7 @@ class GameCore:
         elif self.cat_position_y > self.mouse_pos_y:
             move_y -= self.cat_speed
 
-        self.move_cat(self.cat_position_x + move_x, self.cat_position_y + move_y)
+        self.sit_cat_position(self.cat_position_x + move_x, self.cat_position_y + move_y)
 
     def border_patrol(self):
         if self.cat_position_x < 0:
@@ -68,7 +66,7 @@ class GameCore:
 
         while self.game_is_running:
             # limit framespeed to 30fps
-            self.time_passed = clock.tick(30)
+            clock.tick(30)
             self.screen.fill((55, 55, 55), self.background_rect)
 
             for event in pygame.event.get():
@@ -79,7 +77,7 @@ class GameCore:
                         self.game_is_running = False
 
             for i in range(5):
-                self.cat_control()
+                self.move_cat()
                 self.border_patrol()
                 self.draw_cat()
 
