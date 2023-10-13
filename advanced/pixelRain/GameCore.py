@@ -20,7 +20,7 @@ class GameCore:
         self.pixel_boxes = []
 
     def draw_pixel_box(self, pixel_box):
-        pygame.draw.rect(self.screen, pixel_box.pixel_box_color, (pixel_box.pixel_box_pos_x, pixel_box.pixel_box_pos_y, 20, 20))
+        pygame.draw.rect(self.screen, pixel_box.color, (pixel_box.pos_x, pixel_box.pos_y, 20, 20))
 
     def move_pixel_box(self):
         for box in self.pixel_boxes:
@@ -34,7 +34,7 @@ class GameCore:
 
     def border_patrol(self):
         for box in self.pixel_boxes:
-            if box.pixel_box_pos_y > self.screen_height:
+            if box.pos_y > self.screen_height:
                 self.pixel_boxes.remove(box)
 
     def run_game(self):
@@ -64,7 +64,6 @@ class GameCore:
 
             self.move_pixel_box()
             self.border_patrol()
-            print(len(self.pixel_boxes))
 
             # final draw
             pygame.display.flip()
