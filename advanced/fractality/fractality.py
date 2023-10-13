@@ -16,11 +16,10 @@ def convert(_initiator, _generator):
     return "".join(initiator_array)
 
 
-def move_and_turn(path):
-    for i in range(len(path)):
-        current_move = path[i]
+def move_and_turn(path, distance):
+    for current_move in path:
         if current_move == "F":
-            turtle.forward(25)
+            turtle.forward(distance)
         elif current_move == "-":
             turtle.left(60)
         elif current_move == "+":
@@ -29,10 +28,13 @@ def move_and_turn(path):
 
 initiator = "F--F--F"
 generator = "F+F--F+F"
-turtle.shape("turtle")
+loop_amount = 4
+distance = 20 / loop_amount
 
-for i in range(2):
+for i in range(loop_amount):
     initiator = convert(initiator, generator)
 
-move_and_turn(initiator)
+turtle.shape("turtle")
+turtle.speed(0.1)
+move_and_turn(initiator, distance)
 turtle.done()
