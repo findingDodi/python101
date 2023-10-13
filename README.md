@@ -14,3 +14,4 @@ and other stuff
 * coffeeCounter
 * zoo (Advanced)
 * factorio pygame
+* Browser Plugin für die pygame Doku Website
