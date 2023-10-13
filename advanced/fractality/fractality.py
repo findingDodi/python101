@@ -7,13 +7,7 @@ import turtle
 
 
 def convert(_initiator, _generator):
-    initiator_array = list(_initiator)
-
-    for i in range(len(initiator_array)):
-        if initiator_array[i] == "F":
-            initiator_array[i] = _generator
-
-    return "".join(initiator_array)
+    return _initiator.replace("F", _generator)
 
 
 def move_and_turn(path, distance):
