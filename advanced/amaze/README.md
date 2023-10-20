@@ -11,3 +11,6 @@
 * 20 x 20 fieldsize
 * 30 fields per line
 * 784 fields - 2 (start and end points)
+
+## features
+* wave function collapse algorithm
