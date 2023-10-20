@@ -24,11 +24,11 @@ initiator = "F--F--F"
 generator = "F+F--F+F"
 loop_amount = 4
 distance = 20 / loop_amount
+turtle.shape("turtle")
+turtle.speed(0.1)
 
 for i in range(loop_amount):
     initiator = convert(initiator, generator)
+    move_and_turn(initiator, distance)
 
-turtle.shape("turtle")
-turtle.speed(0.1)
-move_and_turn(initiator, distance)
 turtle.done()
