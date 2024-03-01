@@ -131,3 +131,4 @@ dmypy.json
 # own stuff
 /math
 /advanced/SWAPI/content/*.*
+/advanced/files/todo_list.json
