@@ -1,6 +1,6 @@
-import MessageController
+from OO.MessageController import MessageController
 
-new_message_controller = MessageController.MessageController()
+new_message_controller = MessageController()
 
 
 def printRandomMessage():
