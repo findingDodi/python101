@@ -16,12 +16,12 @@ class MessageController:
         self.message_index = 0
 
     # returned eine random Nachricht aus messages
-    def getRandomMessage(self):
+    def get_random_message(self):
         random_number = random.randrange(len(self.messages))
         return self.messages[random_number]
 
     # returned eine random Nachricht aus messages_shuffled
-    def getNextRandomMessage(self):
+    def get_next_random_message(self):
         random_message = self.messages_shuffled.pop(0)
         self.messages_shuffled.append(random_message)
 
@@ -29,18 +29,18 @@ class MessageController:
 
     # Funktion mit Rekursion = böse
     # returned eine random Nachricht ohne Wiederholung
-    def getNextRandomMessageNoRepeatEvil(self):
+    def get_next_random_message_no_repeat_evil(self):
         if len(self.messages_shuffled) > 0:
             random_message = self.messages_shuffled.pop(0)
             return random_message
         else:
             self.messages_shuffled = self.messages.copy()
             random.shuffle(self.messages_shuffled)
-            random_message = self.getNextRandomMessageNoRepeatEvil()
+            random_message = self.get_next_random_message_no_repeat_evil()
             return random_message
 
     # returned eine random Nachricht ohne Wiederholung
-    def getNextRandomMessageNoRepeat(self):
+    def get_next_random_message_no_repeat(self):
         random_message = self.messages_shuffled[self.message_index]
         self.message_index += 1
 

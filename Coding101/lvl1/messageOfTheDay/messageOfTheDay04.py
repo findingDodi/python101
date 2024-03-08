@@ -10,7 +10,7 @@ def print_random_message():
         user_input = input("Spielt den selben Song nochmal? y/n ")
 
         if user_input == "y":
-            print(new_message_controller.getNextRandomMessageNoRepeat())
+            print(new_message_controller.get_next_random_message_no_repeat())
         else:
             keep_running = False
 
