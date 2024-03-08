@@ -3,7 +3,7 @@ from OO.MessageController import MessageController
 new_message_controller = MessageController()
 
 
-def printRandomMessage():
+def print_random_message():
     keep_running = True
 
     while keep_running:
@@ -15,4 +15,4 @@ def printRandomMessage():
             keep_running = False
 
 
-printRandomMessage()
+print_random_message()
