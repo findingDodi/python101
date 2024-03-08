@@ -2,17 +2,16 @@ import json
 import os
 
 
-def interaction(_todo_list):
+def interaction(_todo_list: list):
     user_action = input('Action: [I]nsert, [D]elete, [E]xit ')
     if user_action == 'I':
         todo = input('Enter todo: ').strip()
         _todo_list.append(todo)
         return True
     elif user_action == 'D':
-        # TODO: Index based deletion
-        to_delete = input('What would you like to delete? ')
-        if to_delete in _todo_list:
-            _todo_list.remove(to_delete)
+        index_to_delete = int(input('What would you like to delete? (Enter number) '))
+        if index_to_delete < len(_todo_list):
+            _todo_list.pop(index_to_delete)
         else:
             print('Try to delete something from the list next time :)')
         return True
