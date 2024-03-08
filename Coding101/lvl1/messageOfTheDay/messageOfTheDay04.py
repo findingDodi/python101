@@ -1,4 +1,4 @@
-from OO.MessageController import MessageController
+from OO.MessageController04 import MessageController
 
 new_message_controller = MessageController()
 
