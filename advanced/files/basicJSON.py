@@ -20,6 +20,11 @@ def interaction(_todo_list):
     return False
 
 
+def print_todos(_todo_list):
+    for i, todo in enumerate(_todo_list):
+        print('[{}] {}'.format(i, todo))
+
+
 SAVE_FILE = 'todo_list.json'
 
 todo_list = []
@@ -30,8 +35,7 @@ if os.path.exists(SAVE_FILE):
 keep_running = True
 
 while keep_running:
-    # TODO: Make List-Print pretty (Index based)
-    print(todo_list)
+    print_todos(todo_list)
     keep_running = interaction(todo_list)
 
 json_file = open(SAVE_FILE, 'w')
