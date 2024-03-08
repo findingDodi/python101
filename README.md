@@ -11,11 +11,9 @@ and other stuff
   * Snail Race
   * TicTacToe
 * Mazemaker
-* coffeeCounter
 * zoo (Advanced)
 * factorio pygame
 * Browser Plugin für die pygame Doku Website
 * API der ISHD verwenden, für Layouts des CSC 
   * nicht mehr nötig für 2024
   * aber trotzdem nette Übung hehe
-* pyClick Post
