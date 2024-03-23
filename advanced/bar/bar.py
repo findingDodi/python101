@@ -21,14 +21,20 @@ while in_bar:
         print('Try to order something from the menu next time ;)')
         continue
 
-    user_drink_amount = int(input('How many drinks would you like? '))
+    user_drink_amount = input('How many drinks would you like? ')
 
-    if user_drink_amount < 0:
+    if not user_drink_amount.isnumeric():
+        print('That was not the question')
+        continue
+
+    actual_drink_amount = int(user_drink_amount)
+
+    if actual_drink_amount < 0:
         print('So you would like to give me a drink?')
-    elif user_drink_amount == 0:
+    elif actual_drink_amount == 0:
         print('Okaaay weird I come around another time!')
     else:
-        print('Here you go', user_drink_amount, user_drink)
+        print('Here you go', actual_drink_amount, user_drink)
 
     print('#' * 10)
     print('Time for a new round of drinks! *the bartender shouts*')
