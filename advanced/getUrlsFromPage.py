@@ -11,7 +11,7 @@ def sanitize_url(url, urli):
     return urli
 
 
-def get_urls_from_page(page_url):
+def process_urls_from_page(page_url):
     reqs = requests.get(page_url)
     soup = BeautifulSoup(reqs.text, 'html.parser')
     counter = 1
@@ -29,4 +29,4 @@ def get_urls_from_page(page_url):
 
 
 user_page_url = input('please enter page you like to get urlis from: ')
-get_urls_from_page(user_page_url)
+process_urls_from_page(user_page_url)
