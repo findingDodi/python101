@@ -11,6 +11,7 @@ class GameCore:
         self.screen_width = conf.SCREEN_SIZE[0]
         self.screen_height = conf.SCREEN_SIZE[1]
         self.game_is_running = True
+        self.game_is_paused = False
         self.background_rect = pygame.Rect(0, 0, self.screen_width, self.screen_height)
 
         self.cat_position_x = self.screen_width / 2
@@ -61,6 +62,14 @@ class GameCore:
         elif self.cat_position_y > self.screen_height - 20:
             self.cat_position_y = self.screen_height - 20
 
+    def draw_pause_screen(self):
+        font = pygame.font.SysFont('Arial', 20)
+        font_color = (255, 255, 255)
+        font_position = (20, 20)
+        font_position2 = (20, 50)
+        self.screen.blit(font.render('The game is PAUSED', True, font_color), font_position)
+        self.screen.blit(font.render('Press SPACE to continue', True, font_color), font_position2)
+
     def run_game(self):
 
         pygame.init()
@@ -80,11 +89,16 @@ class GameCore:
                 elif event.type == pygame.KEYDOWN:
                     if event.key == pygame.K_ESCAPE:
                         self.game_is_running = False
+                    elif event.key == pygame.K_SPACE:
+                        self.game_is_paused = not self.game_is_paused
 
-            for i in range(5):
-                self.move_cat()
-                self.border_patrol()
-                self.draw_cat()
+            if self.game_is_paused:
+                self.draw_pause_screen()
+            else:
+                for i in range(5):
+                    self.move_cat()
+                    self.border_patrol()
+                    self.draw_cat()
 
             # final draw
             pygame.display.flip()
